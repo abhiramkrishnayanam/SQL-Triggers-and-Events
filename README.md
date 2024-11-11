@@ -1,1 +1,0 @@
-# SQL-Triggers-and-Events
